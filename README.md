@@ -4,8 +4,8 @@
 
 This repository contains only the **required items** noted in the submission instructions:
 - **README.md** (this file)
-- **prompts/** (prompt(s) used)
-- **scripts/** (script used to convert narrative → interview)
+- **Readme_Process/** (prompt(s) used)
+- **Transcript/** (script used to convert narrative → interview)
 
 ---
 
@@ -47,9 +47,3 @@ I chose not to include optional dependencies here to keep the package to *only t
 
 ---
 
-## Prompt(s) Used
-
-See [`prompts/prompt_turn_narrative_into_interview.txt`](prompts/prompt_turn_narrative_into_interview.txt).  
-I iterated on this prompt to bias toward short, conversational lines and clear takeaways.
-
-Assignment: *Research Task 6: Deep Fake* (Process‑first emphasis).
