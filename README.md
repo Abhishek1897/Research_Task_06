@@ -52,19 +52,4 @@ I chose not to include optional dependencies here to keep the package to *only t
 See [`prompts/prompt_turn_narrative_into_interview.txt`](prompts/prompt_turn_narrative_into_interview.txt).  
 I iterated on this prompt to bias toward short, conversational lines and clear takeaways.
 
----
-
-## Submission Notes
-
-- **Repo name:** `Task_06_Deep_Fake`  
-- **Contents:** scripts, prompts, README (this repo has only those).  
-- **Send link to:** `jrstrome@syr.edu`  
-- **Time reporting:** Complete the Qualtrics check‑ins by **September 1**.
-
-*(Dates and submission logistics copied from the assignment brief.)*
-
----
-
-## Acknowledgments
-
 Assignment: *Research Task 6: Deep Fake* (Process‑first emphasis).
